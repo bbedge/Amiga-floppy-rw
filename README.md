@@ -1,4 +1,5 @@
-[![Схема]]
+![PCB][3D-PCB]
+![Схема]
 
 ### Amiga-floppy-rw
 
