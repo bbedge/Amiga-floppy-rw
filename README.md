@@ -8,6 +8,6 @@
 ### BOM
 
  
-[Схема]: Схема.png
-[PCB]: PCB.png
-[3D-PCB]: 3D-pcb.png
+[Схема]: images/Схема.png
+[PCB]: images/PCB.png
+[3D-PCB]: images/3D-pcb.png
