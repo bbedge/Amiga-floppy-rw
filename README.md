@@ -1,6 +1,3 @@
-[![PCB][3D-PCB]]
-![Схема]
-
 ### Amiga-floppy-rw
 
 По [мотивам](https://amiga.robsmithdev.co.uk/) Robert Smith.
