@@ -3,8 +3,8 @@
 По [мотивам](https://amiga.robsmithdev.co.uk/) Robert Smith.
 
 Контроллер на базе ATmega328P и программы DrawBridge позволяет:
-- Записывать образы дискет в формате adf на вашем Windows PC,
-- Считывать дискеты Amiga и сохранять их в формате adf.
+- Записывать дискеты для Amiga из образов в формате adf на вашем Windows PC,
+- Считывать дискеты Amiga и сохранять их в образы в формате adf.
 
 ![](images/3D-pcb.png)
 
