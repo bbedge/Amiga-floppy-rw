@@ -28,7 +28,7 @@
 | R1	|	1| 10K |
 | R2	|	1| 1K |
 |R3, R4	|	2| 1,5K |
-| SW1	|	1| PinHeader_1x02_P2.54mm |
+| RESET	|	1| PinHeader_1x02_P2.54mm |
 | U1	|	1| LM2940-5.0 |
 | U2	|	1| ATmega328P DIP 28W |
 | U3	|	1| FT232RL SSOP-28 |
