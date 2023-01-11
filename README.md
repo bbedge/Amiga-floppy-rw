@@ -1,6 +1,6 @@
 ### Amiga-floppy-rw
 
-По [мотивам](https://amiga.robsmithdev.co.uk/) Robert Smith.
+По [мотивам](https://amiga.robsmithdev.co.uk/) Robert Smith. Проект основан на базе Arduino.
 
 Контроллер на базе ATmega328P и программы DrawBridge позволяет:
 - Записывать дискеты для Amiga из образов в формате adf на вашем Windows PC,
