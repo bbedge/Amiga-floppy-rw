@@ -6,6 +6,8 @@
 - Записывать образы дискек в формате adf на вашем Windows PC,
 - Считывать Amiga дискеты и сохранят из в формате adf.
 
+![](3d-board.png)
+
 ### BOM
 
 | Обозначение | Кол-во | Значение |
@@ -33,4 +35,4 @@
  
 [Схема]: images/Схема.png
 [PCB]: images/pcb.png
-[3D-PCB]: images/3d-pcb.png
+[3d-board]: images/3d-pcb.png
