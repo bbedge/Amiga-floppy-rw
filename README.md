@@ -1,6 +1,9 @@
 ### Amiga-floppy-rw
 
-По [мотивам](https://amiga.robsmithdev.co.uk/) Robert Smith. Проект основан на базе Arduino.
+По [мотивам](https://amiga.robsmithdev.co.uk/) Robert Smith. Проект основан на базе Arduino и USB-UART преобразователе.
+
+В данном проекте Arduino-mini и USB-AUST размещены на одной плате. Также на плате размещен разъем для подключения дисковода 3.5".
+
 
 Контроллер на базе ATmega328P и программы DrawBridge позволяет:
 - Записывать дискеты для Amiga из образов в формате adf на вашем Windows PC,
