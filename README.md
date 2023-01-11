@@ -14,7 +14,7 @@
 | J1	|	1| Barrel Jack |
 | J2	|	1| USB_B |
 | J3	|	1| PinSocket_2x17_P2.54mm |
-| J4	|	1| FDD PO |
+| J4	|	1| FDD POWER |
 | J5	|	1| PinHeader_2x03_P2.54mm |
 | R1	|	1| 10K |
 | R2	|	1| 1K |
