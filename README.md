@@ -35,4 +35,4 @@
  
 [Схема]: images/Схема.png
 [PCB]: images/pcb.png
-[3d-board]: images/3d-pcb.png
+[3d-board]: images/3D-pcb.png
